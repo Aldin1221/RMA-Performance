@@ -1,0 +1,103 @@
+body {
+    background-image: url(startsidaklar.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: 'Michroma';
+}
+
+h1 {
+    font-size: 4rem;
+    color: white;
+    margin-left: 130px;
+    margin-top: 130px;
+}
+
+h2 {
+    color: #FFE381;
+    font-size: 4.2rem;
+    margin-top: -75px;
+    margin-left: 130px;
+}
+
+img {
+    width: 600px;
+    background-image: none;
+}
+
+main {
+    color: white;
+
+}
+
+section {
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 1.5em;
+    margin-top: -30px;
+}
+
+footer {
+    margin-top: 180px;
+    margin-left: 40px;
+    font-size: 1.5em;
+    line-height: 40px;
+    margin-left: 80px;
+    margin-top: 110px;
+}
+
+
+section ul {
+    padding-left: 90px;
+}
+
+section .list-icon {
+    width: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+section ul li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+footer ul {
+    padding-left: 50px;
+}
+
+footer .list-icon {
+    width: 30px;
+    margin-right: 10px;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+a {
+    margin-left: 190px;
+    position: relative;
+    top: -185px;
+    font-size: 30px;
+    font-family: 'fantasy', decorative fonts, for titles, etc, Impact, fantasy;
+    color: #080808;
+    margin-right: -15px;
+}
+
+.header-logo {
+    width: 130px;
+}
+
+header {
+    width: 100px;
+    font-size: 20px;
+    margin-top: -570px;
+    margin-left: -55px;
+}
+
+
+details.min.h {
+    margin-left: 350px;
+}

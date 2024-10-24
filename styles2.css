@@ -1,0 +1,57 @@
+body {
+    background-color: #000000;
+    background-image: url(bilbakgrund.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: 'Michroma';
+    color: #FFE381;
+}
+
+form {
+    background-color: #FFE381;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    padding: 40px;
+
+}
+
+
+label {
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #6c0a0a;
+    /* Kanske ändrar till 1px */
+    border-radius: 5px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 700px;
+}
+
+.header-logo {
+    width: 130px;
+}
+
+header {
+    width: 100px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
